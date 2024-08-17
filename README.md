@@ -14,6 +14,7 @@ This project schedules an EC2 instance to start at 7:55 PM and stop at 9:00 PM u
 - Terraform installed
 - AWS CLI configured
 
+
 ### Configuration
 
 1. **Update Terraform Variables**:
@@ -23,3 +24,4 @@ This project schedules an EC2 instance to start at 7:55 PM and stop at 9:00 PM u
    ```bash
    terraform init
    terraform apply
+
